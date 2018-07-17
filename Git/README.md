@@ -171,7 +171,9 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 ### issue
 
-如何解決 failed to push some refs ?
+**如何解決 failed to push some refs ?**
+
+**如何從 git repository 恢復特定檔案？**
 
 ### reference:
 
